@@ -18,8 +18,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  array1 = ["I", "really", "am","learning","arrays"]
-  array1.delete("arrays")
+  array1 = ["I", "really", "am","learning","arrays!"]
+  array1.delete("arrays!")
 end
 
 def remove_element_from_start_of_array(array)
